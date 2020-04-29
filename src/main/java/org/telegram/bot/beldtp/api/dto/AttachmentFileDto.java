@@ -1,23 +1,23 @@
 package org.telegram.bot.beldtp.api.dto;
 
-import org.telegram.bot.beldtp.api.model.Media;
-import org.telegram.bot.beldtp.api.model.MediaType;
+import org.telegram.bot.beldtp.api.model.AttachmentFile;
+import org.telegram.bot.beldtp.api.model.AttachmentFileType;
 
-public class MediaDto {
+public class AttachmentFileDto {
 
     private Long id;
 
     private String caption;
 
-    private MediaType mediaType;
+    private AttachmentFileType mediaType;
 
     private String fileName;
 
-    public MediaDto(Media media) {
+    public AttachmentFileDto(AttachmentFile media) {
         if (media != null) {
             this.id = media.getId();
             this.caption = media.getCaption();
-            this.mediaType = media.getMediaType();
+            this.mediaType = media.getAttachmentFileType();
 
             if (media.getResource() != null) {
                 this.fileName = media.getResource().getFileName();
@@ -41,11 +41,11 @@ public class MediaDto {
         this.caption = caption;
     }
 
-    public MediaType getMediaType() {
+    public AttachmentFileType getMediaType() {
         return mediaType;
     }
 
-    public void setMediaType(MediaType mediaType) {
+    public void setMediaType(AttachmentFileType mediaType) {
         this.mediaType = mediaType;
     }
 

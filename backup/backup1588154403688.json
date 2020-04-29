@@ -1,0 +1,330 @@
+{
+  "millis": 1588154403688,
+  "info": "ok",
+  "date": "Wed Apr 29 13:00:03 MSK 2020",
+  "incident": [
+    {
+      "id": 34,
+      "text": "26 июня 2018 года около 06.20 на 188 километре автодороги М-6 \"Минск-Гродно- граница Республики Польша\", вблизи деревни Феликсово Лидского района, произошло столкновение между грузовым автопоездом и легковым автомобилем \"Ситроен С3\". В результате происшествия водитель легкового автомобиля погиб, а пассажир был серьезно травмирован.",
+      "attachmentFile": [
+        {
+          "id": 3,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "ZhPN2ZXipcAI01TUJoxgfuwKgdmURWAJ7P6CwjVhzRd3MWecSjhmprV3PoeIa0.jpg"
+        },
+        {
+          "id": 4,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "CpKmJcLOksI26iJCBNZi1vTBcwcmFGh7YIEseYN57bFD2C6LNY5Kp2jB7SheaQ.jpg"
+        },
+        {
+          "id": 5,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "y8yc15BFA4GcrWW1XmCiPrRLfyqLEbCsHNFszNG0YvJ36i1rVkqs4qwlOZeI3F.jpg"
+        }
+      ],
+      "year": 2018,
+      "millis": 1529983257352,
+      "day": 26,
+      "month": 5,
+      "hour": 6,
+      "minute": 20,
+      "longitude": 25.0203,
+      "latitude": 53.7476,
+      "city": "Мажэйкаўскі сельскі Савет",
+      "cityDistrict": null,
+      "country": "Беларусь",
+      "countryCode": "by",
+      "county": "Лідскі раён",
+      "postcode": "231235",
+      "road": "М6",
+      "houseNumber": null,
+      "state": "Гродзенская вобласць"
+    },
+    {
+      "id": 39,
+      "text": "Водитель \"УАЗа\" двигался в направлении улицы Большая Троицкая. С его слов, впереди двигавшийся автомобиль стал резко притормаживать. Для того чтобы избежать столкновения, он вывернул руль вправо и совершил наезд на металлическое ограждение. В результате наезда на препятствие автомобиль опрокинулся. Пассажир получил телесные повреждения и был доставлен в больницу на обследование.",
+      "attachmentFile": [
+        {
+          "id": 10,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "zwBN1WQ9rIxSTHbKV6dFdpVI2psB2pmWZDWSsLJODvByrZc7hGqxXaWpJac1ei.jpg"
+        },
+        {
+          "id": 9,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "Wf2jvaIsyJff0Wfhq9DCHjC3SDkEYMGR9JOAPw0jCX5AK47YcloPyU2aphzVx3.jpg"
+        },
+        {
+          "id": 7,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "Voy4vYb4SLaCNVyql7Vr88GToJA2VR4yPQRBEInkDK3SdugTUyrjbaiXAWNRVp.jpg"
+        },
+        {
+          "id": 8,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "O1MscYgTDpPJXrXy3ulY95nK9YDxiK0wF4xk6MLA1Eyti3c6TGrpSi5MIX8pua.jpg"
+        },
+        {
+          "id": 6,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "OSd5jRB5aCkjlbUgxxjFu2OOST8bRA2Ih3TAGjGJwqoGHIr3QIAnsrxEXEjrmH.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1585209614694,
+      "day": 26,
+      "month": 2,
+      "hour": 11,
+      "minute": 0,
+      "longitude": 23.827,
+      "latitude": 53.6882,
+      "city": "Гродна",
+      "cityDistrict": "Ленінскі раён",
+      "country": "Беларусь",
+      "countryCode": "by",
+      "county": null,
+      "postcode": "230029",
+      "road": "Віленскі завулак",
+      "houseNumber": null,
+      "state": "Гродзенская вобласць"
+    },
+    {
+      "id": 55,
+      "text": "Авария произошла утром 14 апреля. Установлено, что 51-летний водитель погрузчика «Амкодор» выезжал со второстепенной дороги на трассу Кореличи — Щорсы и не пропустил Peugeot. В результате ковш погрузчика «прошил» правую сторону легковушки.\n\nВ аварии травмы различной степени тяжести получила 51-летняя водитель Peugeot. Женщину доставили в больницу. ",
+      "attachmentFile": [
+        {
+          "id": 16,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "UljDTzbrbY5jix15F1lB9mYGubfnp1VnzxG6VhDtl3MNROPLiubtoDouiHVPIH.jpg"
+        },
+        {
+          "id": 15,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "UbTWD4A97jTaxGF4qDqew1zjVJx1uB6zPRmOPq87LyxFPWFGGeuXfaWIWo096X.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1586844022252,
+      "day": 14,
+      "month": 3,
+      "hour": 9,
+      "minute": 0,
+      "longitude": 26.1749,
+      "latitude": 53.5894,
+      "city": null,
+      "cityDistrict": null,
+      "country": "Беларусь",
+      "countryCode": "by",
+      "county": "Карэліцкі раён",
+      "postcode": "231430",
+      "road": "Кореличи - Щорсы",
+      "houseNumber": null,
+      "state": "Гродзенская вобласць"
+    },
+    {
+      "id": 56,
+      "text": "21-летний на Suzuki двигался со стороны моста в направлении улицы Поповича. В какой-то момент мотоциклист не учел безопасную дистанцию и ударил в заднюю часть троллейбус, поцарапав ему задний бампер. ",
+      "attachmentFile": [
+        {
+          "id": 17,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "q7EY8d1Rh8SHvQPE5wQpyVxzUm3CUUaN2rT8IvfIzwpkXcX0fqYwOmsrYaHsHY.jpg"
+        },
+        {
+          "id": 20,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "tpZGtzWzI7OtIBnh029yaUpCJsdIayUJsOJjgdqxdIay43E8DiXdamgtpeSR7q.jpg"
+        },
+        {
+          "id": 18,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "Pu7NdTW31Qqwkrr7KoaczwxpbiQpF0aGUZxMxLRDwtRYghayLkRN86NCcXx6NN.jpg"
+        },
+        {
+          "id": 19,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "dIJdQKUqIbpv5x987toMjSd3HFb99KaAPxa9Vgs6HmjCfzmgNVtTjfBEccGODn.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1586455234400,
+      "day": 9,
+      "month": 3,
+      "hour": 21,
+      "minute": 0,
+      "longitude": 23.8211,
+      "latitude": 53.6691,
+      "city": "Гродна",
+      "cityDistrict": "Кастрычніцкі раён",
+      "country": "Беларусь",
+      "countryCode": "by",
+      "county": null,
+      "postcode": "230011",
+      "road": "вуліца Савецкіх Пагранічнікаў",
+      "houseNumber": null,
+      "state": "Гродзенская вобласць"
+    },
+    {
+      "id": 57,
+      "text": "Автомобиль Lada двигался по круговому движению на красный сигнал светофора. В это время с улицы О. Соломовой в направлении улицы Маслакова на разрешающий сигнал светофора двигался автомобиль Honda. Водитель автомобиля Lada не уступил дорогу, в результате чего произошло ДТП. ",
+      "attachmentFile": [
+        {
+          "id": 36,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "LXQEY6GNuGQJ3Kn8ra530qqyrfptmMwQpjXQDSDuq7rjlVELlR8gCOd6eMJdkj.jpg"
+        },
+        {
+          "id": 32,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "OaJ59NIhpDmpCOr7P5E1L5vHbNMi6DzdlzMNKrqNfNKub6yMVTGDkC2nczzRBe.jpg"
+        },
+        {
+          "id": 35,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "WKq244MaLcNTqjA0pvTyyC2N2vIHsuvTDCeIlGdFwhR2UpgKHcgSTvwakdlQDS.jpg"
+        },
+        {
+          "id": 34,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "LmLdTBq4glaRHVvQbqArZpwPkC8jQ37SRNz8jux9qMlglvEJtug329qReqan9w.jpg"
+        },
+        {
+          "id": 31,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "eTEoEYR1PCfelJ2fPt27eV0udlHa8RzTQXqBpILI1fXm7Ndc1qrA33PXYd7oBl.jpg"
+        },
+        {
+          "id": 37,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "fxHEsVg4ngTP8LRr62DWF9CiEt8ezrZQRP86tBOfeCoBnB0UmeZwvstbetMNOa.jpg"
+        },
+        {
+          "id": 33,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "oZ4q8rpJSqZ95h9FvPEf4xItRW2NDB6k0cNXNZAjBv7eXpwfSYRzxTPbLOtGkX.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1586016600551,
+      "day": 4,
+      "month": 3,
+      "hour": 19,
+      "minute": 10,
+      "longitude": 23.7922,
+      "latitude": 53.6529,
+      "city": "Гродна",
+      "cityDistrict": "Кастрычніцкі раён",
+      "country": "Беларусь",
+      "countryCode": "by",
+      "county": null,
+      "postcode": "230768",
+      "road": null,
+      "houseNumber": null,
+      "state": "Гродзенская вобласць"
+    },
+    {
+      "id": 78,
+      "text": "В  субботу, 28 марта, около полудня на проспекте Космонавтов в Гродно 29-летний водитель Audi совершил наезд на пешехода. Мужчина поворачивал направо при выезде от строительного магазина «Гемма», в это время женщина 1955 года рождения переходила дорогу. Местная жительница пересекала проезжую часть вне пешеходного перехода, отметили в Гродненской ГАИ. В результате аварии она получила серьезные травмы, с которыми и была госпитализирована.\n\nИсточник [http://s13.ru/archives/dtp-180](http://s13.ru/archives/dtp-180)",
+      "attachmentFile": [
+        {
+          "id": 55,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "oaMywXYy4qsBCnjH2coK1wjVNH8Q6eLfhHFhU7j0eV0Bb8RZDSv1xA7USdaUVj.jpg"
+        },
+        {
+          "id": 58,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "Gia1OrHPit37tdCrMVxxVtYteqGBTPirnMeWYhjiIA64WGlsfBam8XIXEop4h6.jpg"
+        },
+        {
+          "id": 56,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "ujoRbkQBKuP6ncP61yMr8R5Mk5Yf9IvEAR9UaCrZIwiCkbE1nsFBPDzusT1ucF.jpg"
+        },
+        {
+          "id": 57,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "TribUqeQRikNRHjGXVzpYdXFFh7b44vmLXH5B4sQhwTJJUPVLEooElxPQpERFB.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1585386059028,
+      "day": 28,
+      "month": 2,
+      "hour": 12,
+      "minute": 0,
+      "longitude": 23.8463,
+      "latitude": 53.676,
+      "city": "Гродна",
+      "cityDistrict": "Кастрычніцкі раён",
+      "country": "Беларусь",
+      "countryCode": "by",
+      "county": null,
+      "postcode": "231137",
+      "road": "праспект Касманаўтаў",
+      "houseNumber": "2Б",
+      "state": "Гродзенская вобласць"
+    },
+    {
+      "id": 79,
+      "text": "На пешеходном переходе на улице Весенней в Гродно произошла авария с участием автомобилей «Ауди» и «Фольксваген».\n\nПодъезжая к пешеходному переходу 40-летняя женщина-водитель «Фольксвагена» стала притормаживать, а сзади двигающийся мужчина на «Ауди» этого не учел и въехал в заднюю часть автомобиля. После ДТП водитель «Ауди» попытался уехать с места происшествия, однако из-за технической неисправности, этого сделать ему не удалось. Мужчина убежал в направлении автобусной остановки. Сел в троллейбус и уехал, рассказали подробности в Гродненской ГАИ.\n\nВ ходе дальнейшего разбирательства личность водителя была установлена. Им оказался 38-летний бесправник. Как пояснил сбежавший мужчина, он испугался ответственности, поэтому оставил место ДТП и поехал домой.\n\nК слову водитель лишен права управления транспортным средством, за вождение в состоянии алкогольного опьянения.\n\nИсточник [http://s13.ru/archives/dtp-193](http://s13.ru/archives/dtp-193)",
+      "attachmentFile": [
+        {
+          "id": 59,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "lf4bqyqZAkBeFV6oPRq5dBAHLQVzJN6k7SfjMAiOjTsf9c9Yl9TlpQqHQPmtN2.jpg"
+        },
+        {
+          "id": 60,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "8jbjFdCbBvScf0m6ncSF0WlzG0wuC2C9n3V20YjQIol4CkPm32WWH5u1HLvMVS.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1586780442480,
+      "day": 13,
+      "month": 3,
+      "hour": 15,
+      "minute": 20,
+      "longitude": 23.8058,
+      "latitude": 53.6833,
+      "city": "Гродна",
+      "cityDistrict": "Ленінскі раён",
+      "country": "Беларусь",
+      "countryCode": "by",
+      "county": null,
+      "postcode": "230030",
+      "road": "Вясновая вуліца",
+      "houseNumber": null,
+      "state": "Гродзенская вобласць"
+    }
+  ]
+}

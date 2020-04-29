@@ -32,4 +32,9 @@ public class IncidentRepositoryImpl implements IncidentRepository {
     public List<Long> getAll() {
         return incidentJpaRepository.findByType();
     }
+
+    @Override
+    public List<Incident> getAllIncident() {
+        return incidentJpaRepository.findAll();
+    }
 }

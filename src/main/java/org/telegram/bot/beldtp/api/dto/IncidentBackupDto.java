@@ -7,15 +7,14 @@ import org.telegram.bot.beldtp.api.model.Time;
 
 import java.util.HashSet;
 import java.util.Set;
-import java.util.stream.Collectors;
 
-public class IncidentDto {
+public class IncidentBackupDto {
 
     private Long id;
 
     private String text;
 
-    private Set<Long> media = new HashSet<>();
+    private Set<AttachmentFileDto> attachmentFile = new HashSet<>();
 
     private Integer year;
 
@@ -51,13 +50,13 @@ public class IncidentDto {
 
     private String state;
 
-    public IncidentDto(Incident incident, Time time, Location location) {
+    public IncidentBackupDto(Incident incident, Time time, Location location) {
         if (incident != null) {
             this.id = incident.getId();
             this.text = incident.getText();
 
-            if (incident.getAttachmentFiles() != null) {
-                this.media = incident.getAttachmentFiles().stream().map(AttachmentFile::getId).collect(Collectors.toSet());
+            for (AttachmentFile attachmentFile : incident.getAttachmentFiles()){
+                this.attachmentFile.add(new AttachmentFileDto(attachmentFile));
             }
         }
 
@@ -109,12 +108,12 @@ public class IncidentDto {
         this.text = text;
     }
 
-    public Set<Long> getMedia() {
-        return media;
+    public Set<AttachmentFileDto> getAttachmentFile() {
+        return attachmentFile;
     }
 
-    public void setMedia(Set<Long> media) {
-        this.media = media;
+    public void setAttachmentFile(Set<AttachmentFileDto> attachmentFile) {
+        this.attachmentFile = attachmentFile;
     }
 
     public Integer getYear() {

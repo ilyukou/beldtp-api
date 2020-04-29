@@ -2,28 +2,28 @@ package org.telegram.bot.beldtp.api.service.impl.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.telegram.bot.beldtp.api.model.Media;
-import org.telegram.bot.beldtp.api.repository.interf.MediaRepository;
-import org.telegram.bot.beldtp.api.service.interf.model.MediaService;
+import org.telegram.bot.beldtp.api.model.AttachmentFile;
+import org.telegram.bot.beldtp.api.repository.interf.AttachmentFileRepository;
+import org.telegram.bot.beldtp.api.service.interf.model.AttachmentFileService;
 import org.telegram.bot.beldtp.api.service.interf.model.ResourcesService;
 
 @Service
-public class MediaServiceImpl implements MediaService {
+public class AttachmentFileServiceImpl implements AttachmentFileService {
 
     @Autowired
-    private MediaRepository mediaRepository;
+    private AttachmentFileRepository attachmentFileRepository;
 
     @Autowired
     private ResourcesService resourcesService;
 
     @Override
-    public Media get(Long id) {
-        return mediaRepository.get(id);
+    public AttachmentFile get(Long id) {
+        return attachmentFileRepository.get(id);
     }
 
     @Override
     public byte[] getFile(Long id) {
-        Media media = get(id);
+        AttachmentFile media = get(id);
 
         if (media == null || media.getResource() == null || media.getResource().getId() == null) {
             return null;

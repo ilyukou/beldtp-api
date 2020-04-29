@@ -47,4 +47,9 @@ public class IncidentServiceImpl implements IncidentService {
                 .map(location -> location.getIncident().getId())
                 .collect(Collectors.toList());
     }
+
+    @Override
+    public List<Incident> getAllIncident() {
+        return incidentRepository.getAllIncident();
+    }
 }

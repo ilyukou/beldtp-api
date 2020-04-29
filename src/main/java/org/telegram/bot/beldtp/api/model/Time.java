@@ -15,7 +15,6 @@ public class Time {
 
     private long timeInMillis;
 
-
     private Integer year;
 
     private Byte day;
@@ -27,14 +26,6 @@ public class Time {
     private Byte minute;
 
     public Time() {
-    }
-
-    public Time(Integer year, Byte month, Byte day, Byte hour, Byte minute) {
-        this.year = year;
-        this.day = day;
-        this.month = month;
-        this.hour = hour;
-        this.minute = minute;
     }
 
     public long getTimeInMillis() {
@@ -103,10 +94,49 @@ public class Time {
 
     @Override
     public String toString() {
-        return new StringBuilder()
-                .append(hour).append(":").append(minute)
-                .append(" ")
-                .append(day).append("/").append(month + 1).append("/").append(year)
-                .toString();
+        StringBuilder builder = new StringBuilder();
+
+        if (hour == null) {
+            builder.append("hh");
+        } else {
+            builder.append(hour);
+        }
+
+        builder.append(":");
+
+        if (minute == null) {
+            builder.append("mm");
+        } else {
+            if(minute < 10){
+                builder.append("0");
+            }
+            builder.append(minute);
+        }
+
+        builder.append(" ");
+
+        if (day == null) {
+            builder.append("dd");
+        } else {
+            builder.append(day);
+        }
+
+        builder.append("/");
+
+        if (month == null) {
+            builder.append("mm");
+        } else {
+            builder.append(month + 1);
+        }
+
+        builder.append("/");
+
+        if (year == null) {
+            builder.append("yy");
+        } else {
+            builder.append(year);
+        }
+
+        return builder.toString();
     }
 }

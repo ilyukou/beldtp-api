@@ -146,29 +146,29 @@ public class Location {
     public String toString() {
         StringBuilder builder = new StringBuilder();
 
-        if (getLongitude() != null && getLatitude() != null) {
+        if(getLongitude() != null && getLatitude() != null){
             builder.append("[Месцазнаходжанне](https://www.google.com/maps?q=")
                     .append(getLatitude()).append(",").append(getLongitude()).append(")").append("\n");
         }
 
-        if (getCountry() != null) {
+        if(getCountry() != null){
             builder.append(getCountry()).append("\n");
         }
 
 
-        if (getCity() != null) {
+        if(getCity() != null){
             builder.append(getCity()).append(", ");
         }
 
-        if (getState() != null) {
+        if(getState() != null){
             builder.append(getState()).append("\n");
         }
 
-        if (getRoad() != null) {
+        if(getRoad() != null){
             builder.append(getRoad()).append(" ");
         }
 
-        if (getHouseNumber() != null) {
+        if(getHouseNumber() != null){
             builder.append(getHouseNumber()).append("\n");
         }
 

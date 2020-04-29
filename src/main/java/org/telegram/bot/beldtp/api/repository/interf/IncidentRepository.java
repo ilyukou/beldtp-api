@@ -10,4 +10,6 @@ public interface IncidentRepository {
     Incident get(Long id);
 
     List<Long> getAll();
+
+    List<Incident> getAllIncident();
 }

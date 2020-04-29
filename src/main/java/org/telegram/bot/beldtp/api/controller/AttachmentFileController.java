@@ -5,44 +5,44 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.telegram.bot.beldtp.api.dto.MediaDto;
-import org.telegram.bot.beldtp.api.model.Media;
-import org.telegram.bot.beldtp.api.service.interf.model.MediaService;
+import org.telegram.bot.beldtp.api.dto.AttachmentFileDto;
+import org.telegram.bot.beldtp.api.model.AttachmentFile;
+import org.telegram.bot.beldtp.api.service.interf.model.AttachmentFileService;
 import org.telegram.bot.beldtp.api.service.interf.model.ResourcesService;
 
 import java.net.URLConnection;
 
 @RestController
-@RequestMapping("/media")
+@RequestMapping("/attachmentFile")
 @CrossOrigin
-public class MediaController {
+public class AttachmentFileController {
 
     @Autowired
-    private MediaService mediaService;
+    private AttachmentFileService attachmentFileService;
 
     @Autowired
     private ResourcesService resourcesService;
 
     @GetMapping("/{id}")
-    public ResponseEntity<MediaDto> getById(@PathVariable Long id) {
-        Media media = mediaService.get(id);
+    public ResponseEntity<AttachmentFileDto> getById(@PathVariable Long id) {
+        AttachmentFile media = attachmentFileService.get(id);
 
         if (media == null) {
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
 
-        return new ResponseEntity<>(new MediaDto(media), HttpStatus.OK);
+        return new ResponseEntity<>(new AttachmentFileDto(media), HttpStatus.OK);
     }
 
-    @GetMapping("/file")
-    public ResponseEntity<byte[]> get(@RequestParam Long id) {
-        Media media = mediaService.get(id);
+    @GetMapping("/file/{id}")
+    public ResponseEntity<byte[]> get(@PathVariable Long id) {
+        AttachmentFile media = attachmentFileService.get(id);
 
         if (media == null) {
             return new ResponseEntity(HttpStatus.NOT_FOUND);
         }
 
-        byte[] bytes = mediaService.getFile(id);
+        byte[] bytes = attachmentFileService.getFile(id);
 
         if (bytes == null) {
             return new ResponseEntity(HttpStatus.INTERNAL_SERVER_ERROR);
@@ -51,7 +51,7 @@ public class MediaController {
         return new ResponseEntity(bytes, getContentType(media), HttpStatus.OK);
     }
 
-    public HttpHeaders getContentType(Media media) {
+    public HttpHeaders getContentType(AttachmentFile media) {
         HttpHeaders httpHeaders = new HttpHeaders();
 
         httpHeaders.add("Content-Type", URLConnection

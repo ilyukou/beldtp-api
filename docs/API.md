@@ -33,17 +33,17 @@ max longitude = longitude + radius; min longitude - radius
 
 max latitude = latitude + radius; min latitude - radius
 
-### [Media](https://github.com/ilyukou/beldtp-api/tree/master/docs/entity/INCIDENT.md)
-#### media/{id}
+### [AttachmentFile](https://github.com/ilyukou/beldtp-api/tree/master/docs/entity/MEDIA.md)
+#### attachmentFile/{id}
 Required param
 * id -  unique identifier of Media.
 
-Return [Media](https://github.com/ilyukou/beldtp-api/tree/master/docs/entity/MEDIA.md) or 404 HTTP Error
+Return [AttachmentFile](https://github.com/ilyukou/beldtp-api/tree/master/docs/entity/MEDIA.md) or 404 HTTP Error
 
-#### media/file
+#### attachmentFile/file/{id}
 Required param 
-* id - unique identifier of [Media](https://github.com/ilyukou/beldtp-api/tree/master/docs/entity/MEDIA.md)
+* id - unique identifier of [AttachmentFile](https://github.com/ilyukou/beldtp-api/tree/master/docs/entity/MEDIA.md)
 
-Example : http://ip/media/file?id=1
+Example : http://ip/attachmentFile/file/1
 
 Return a file 

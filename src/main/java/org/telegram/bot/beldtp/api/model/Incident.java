@@ -3,6 +3,7 @@ package org.telegram.bot.beldtp.api.model;
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 @Entity
 @Table(name = "incident")
@@ -12,10 +13,11 @@ public class Incident {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    @Lob
     private String text;
 
     @OneToMany(fetch = FetchType.EAGER, mappedBy = "incident", orphanRemoval = true, cascade = CascadeType.ALL)
-    private Set<Media> media = new HashSet<>();
+    private Set<AttachmentFile> attachmentFiles = new HashSet<>();
 
     @OneToOne(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
     @JoinColumn(name = "timeId")
@@ -50,12 +52,12 @@ public class Incident {
         this.text = text;
     }
 
-    public Set<Media> getMedia() {
-        return media;
+    public Set<AttachmentFile> getAttachmentFiles() {
+        return attachmentFiles;
     }
 
-    public void setMedia(Set<Media> media) {
-        this.media = media;
+    public void setAttachmentFiles(Set<AttachmentFile> attachmentFiles) {
+        this.attachmentFiles = attachmentFiles;
     }
 
     public Time getTime() {
@@ -94,16 +96,16 @@ public class Incident {
         return time != null;
     }
 
-    public boolean hasLocation() {
+    public boolean hasLocation(){
         return location != null;
     }
 
-    public boolean hasMedia() {
-        return media != null && media.size() > 0;
+    public boolean hasMedia(){
+        return attachmentFiles != null && attachmentFiles.size() > 0;
     }
 
-    public void add(Media media) {
-        this.media.add(media);
+    public void add(AttachmentFile attachmentFile){
+        this.attachmentFiles.add(attachmentFile);
     }
 
     @Override
@@ -119,6 +121,42 @@ public class Incident {
         }
 
         return inc.id.equals(id);
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder builder = new StringBuilder();
+
+        builder.append("Incident{" +
+                "id=" + id);
+
+        if(text != null){
+            builder.append(", text='" + text + '\'');
+        }
+
+        builder.append(", attachmentFiles=")
+                .append(attachmentFiles
+                        .stream()
+                        .map(AttachmentFile::getId)
+                        .collect(Collectors.toList()));
+
+        if(time != null){
+            builder.append(", time=" + time);
+        }
+
+        if(location != null){
+            builder.append(", location=" + location);
+        }
+
+        if(user != null){
+            builder.append(", user=" + user);
+        }
+
+        builder.append(", type=" + type );
+
+        builder.append('}');
+
+        return builder.toString();
     }
 }
 
