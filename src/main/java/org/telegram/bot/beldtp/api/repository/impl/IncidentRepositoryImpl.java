@@ -35,6 +35,11 @@ public class IncidentRepositoryImpl implements IncidentRepository {
 
     @Override
     public List<Incident> getAllIncident() {
-        return incidentJpaRepository.findAll();
+        return incidentJpaRepository.findByType(IncidentType.PUBLISH);
+    }
+
+    @Override
+    public List<Object[]> getIncidentIdAndLocation() {
+        return incidentJpaRepository.getIncidentIdAndLocation();
     }
 }

@@ -2,20 +2,13 @@ package org.telegram.bot.beldtp.api.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import org.telegram.bot.beldtp.api.dto.BackupInfoWrapper;
-import org.telegram.bot.beldtp.api.dto.IncidentBackupDto;
 import org.telegram.bot.beldtp.api.service.interf.model.IncidentService;
 
-import java.util.Calendar;
-import java.util.List;
-import java.util.stream.Collectors;
-
+@CrossOrigin
 @RestController
 @RequestMapping("/backup")
-@CrossOrigin
 public class BackupController {
 
     @Autowired

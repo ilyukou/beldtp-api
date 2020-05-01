@@ -17,25 +17,12 @@ public class Location {
 
     private Float latitude;
 
-    private String city;
-
-    private String cityDistrict;
-
-    private String country;
-
-    private String countryCode;
-
-    private String county;
-
-    private String postcode;
-
-    private String road;
-
-    private String houseNumber;
-
-    private String state;
-
     public Location() {
+    }
+
+    public Location(Float longitude, Float latitude) {
+        this.longitude = longitude;
+        this.latitude = latitude;
     }
 
     public Long getId() {
@@ -70,108 +57,13 @@ public class Location {
         this.latitude = latitude;
     }
 
-    public String getCity() {
-        return city;
-    }
-
-    public void setCity(String city) {
-        this.city = city;
-    }
-
-    public String getCityDistrict() {
-        return cityDistrict;
-    }
-
-    public void setCityDistrict(String cityDistrict) {
-        this.cityDistrict = cityDistrict;
-    }
-
-    public String getCountry() {
-        return country;
-    }
-
-    public void setCountry(String country) {
-        this.country = country;
-    }
-
-    public String getCountryCode() {
-        return countryCode;
-    }
-
-    public void setCountryCode(String countryCode) {
-        this.countryCode = countryCode;
-    }
-
-    public String getCounty() {
-        return county;
-    }
-
-    public void setCounty(String county) {
-        this.county = county;
-    }
-
-    public String getPostcode() {
-        return postcode;
-    }
-
-    public void setPostcode(String postcode) {
-        this.postcode = postcode;
-    }
-
-    public String getRoad() {
-        return road;
-    }
-
-    public void setRoad(String road) {
-        this.road = road;
-    }
-
-    public String getHouseNumber() {
-        return houseNumber;
-    }
-
-    public void setHouseNumber(String houseNumber) {
-        this.houseNumber = houseNumber;
-    }
-
-    public String getState() {
-        return state;
-    }
-
-    public void setState(String state) {
-        this.state = state;
-    }
-
     @Override
     public String toString() {
-        StringBuilder builder = new StringBuilder();
-
-        if(getLongitude() != null && getLatitude() != null){
-            builder.append("[Месцазнаходжанне](https://www.google.com/maps?q=")
-                    .append(getLatitude()).append(",").append(getLongitude()).append(")").append("\n");
-        }
-
-        if(getCountry() != null){
-            builder.append(getCountry()).append("\n");
-        }
-
-
-        if(getCity() != null){
-            builder.append(getCity()).append(", ");
-        }
-
-        if(getState() != null){
-            builder.append(getState()).append("\n");
-        }
-
-        if(getRoad() != null){
-            builder.append(getRoad()).append(" ");
-        }
-
-        if(getHouseNumber() != null){
-            builder.append(getHouseNumber()).append("\n");
-        }
-
-        return builder.toString();
+        return "Location{" +
+                "id=" + id +
+                ", incident=" + incident +
+                ", longitude=" + longitude +
+                ", latitude=" + latitude +
+                '}';
     }
 }

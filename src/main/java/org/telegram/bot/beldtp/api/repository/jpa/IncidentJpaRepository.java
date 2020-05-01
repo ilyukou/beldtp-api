@@ -11,6 +11,11 @@ public interface IncidentJpaRepository extends JpaRepository<Incident, Long> {
 
     Incident findByIdAndType(Long id, IncidentType type);
 
+    List<Incident> findByType(IncidentType type);
+
     @Query(value = "SELECT id FROM beldtp.incident WHERE type = 5;", nativeQuery = true)
     List<Long> findByType();
+
+    @Query(value = "SELECT id,location_id FROM beldtp.incident WHERE type = 5;", nativeQuery = true)
+    List<Object[]> getIncidentIdAndLocation();
 }

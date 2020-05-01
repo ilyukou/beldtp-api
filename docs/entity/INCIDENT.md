@@ -13,12 +13,3 @@
 ###### Location
 * Float longitude - see [Telegram Api](https://core.telegram.org/bots/api#sendlocation)
 * Float latitude - see [Telegram Api](https://core.telegram.org/bots/api#sendlocation)
-* String city - this and all below parameters get from [geocoder](https://opencagedata.com/)
-* String cityDistrict
-* String country
-* String countryCode
-* String county
-* String postcode
-* String road
-* String houseNumber
-* String state

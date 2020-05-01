@@ -12,4 +12,6 @@ public interface IncidentRepository {
     List<Long> getAll();
 
     List<Incident> getAllIncident();
+
+    List<Object[]> getIncidentIdAndLocation();
 }

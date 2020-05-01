@@ -6,4 +6,6 @@ import java.util.List;
 
 public interface LocationService {
     List<Location> getByLocation(Float longitude, Float latitude, Float radius);
+
+    List<Location> getLongitudeAndLatitude(List<Long> ids);
 }

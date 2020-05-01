@@ -12,9 +12,9 @@ import org.telegram.bot.beldtp.api.service.interf.model.ResourcesService;
 
 import java.net.URLConnection;
 
+@CrossOrigin
 @RestController
 @RequestMapping("/attachmentFile")
-@CrossOrigin
 public class AttachmentFileController {
 
     @Autowired

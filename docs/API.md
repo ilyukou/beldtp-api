@@ -47,3 +47,7 @@ Required param
 Example : http://ip/attachmentFile/file/1
 
 Return a file 
+
+#### getAllMarker
+Return incident id and location
+return array of object {"id":34,"longitude":25.0203,"latitude":53.7476}

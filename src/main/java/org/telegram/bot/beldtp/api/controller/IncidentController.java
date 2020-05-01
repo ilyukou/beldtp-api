@@ -5,19 +5,25 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.telegram.bot.beldtp.api.dto.IncidentDto;
+import org.telegram.bot.beldtp.api.dto.LocationDto;
 import org.telegram.bot.beldtp.api.model.Incident;
 import org.telegram.bot.beldtp.api.service.interf.model.IncidentService;
 
 import java.util.ArrayList;
 import java.util.List;
 
+@CrossOrigin(origins = "Access-Control-Allow-Origin: *", allowedHeaders = "Access-Control-Allow-Origin: *")
 @RestController
 @RequestMapping("/incident")
-@CrossOrigin
 public class IncidentController {
 
     @Autowired
     private IncidentService incidentService;
+
+    @GetMapping("/getAllMarker")
+    public List<LocationDto> getAllMarker() {
+        return incidentService.getAllMarker();
+    }
 
     @GetMapping("/{id}")
     public ResponseEntity<IncidentDto> getById(@PathVariable Long id) {

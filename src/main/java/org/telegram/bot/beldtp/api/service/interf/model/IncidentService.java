@@ -1,7 +1,7 @@
 package org.telegram.bot.beldtp.api.service.interf.model;
 
 
-import org.telegram.bot.beldtp.api.dto.IncidentBackupDto;
+import org.telegram.bot.beldtp.api.dto.LocationDto;
 import org.telegram.bot.beldtp.api.model.Incident;
 
 import java.util.List;
@@ -17,4 +17,6 @@ public interface IncidentService {
     List<Long> getByLocation(Float longitude, Float latitude, Float radius);
 
     List<Incident> getAllIncident();
+
+    List<LocationDto> getAllMarker();
 }

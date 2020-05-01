@@ -18,4 +18,10 @@ public class LocationServiceImpl implements LocationService {
     public List<Location> getByLocation(Float longitude, Float latitude, Float radius) {
         return locationRepository.getByLocation(longitude, latitude, radius);
     }
+
+    @Override
+    public List<Location> getLongitudeAndLatitude(List<Long> ids) {
+        return locationRepository.getLongitudeAndLatitude(ids);
+    }
+
 }
