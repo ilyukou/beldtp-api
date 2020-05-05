@@ -59,11 +59,17 @@ public class Location {
 
     @Override
     public String toString() {
-        return "Location{" +
-                "id=" + id +
-                ", incident=" + incident +
-                ", longitude=" + longitude +
+        StringBuilder builder = new StringBuilder();
+        builder.append("Location{" +
+                "id=" + id);
+
+        if(incident != null){
+            builder.append(", incidentId=" + incident.getId());
+        }
+        builder.append(", longitude=" + longitude +
                 ", latitude=" + latitude +
-                '}';
+                '}');
+
+        return builder.toString();
     }
 }

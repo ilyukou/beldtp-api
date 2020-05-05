@@ -10,6 +10,10 @@ ___
 IP you might found in [bot](http://t.me/beldtp_bot) in section API
 ___
 ### Changelog
+##### v0.1.5
+* add backup method for get all entity with such dependency in a call
+* fix bugs
+
 ##### v0.1.4
 * add cors filter
 * add get incident id with location

@@ -47,7 +47,7 @@ public class IncidentController {
             @RequestParam long to
     ) {
 
-        if (from < to) {
+        if (from > to) {
             return new ResponseEntity<>(new ArrayList<>(), HttpStatus.BAD_REQUEST);
         }
 

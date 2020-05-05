@@ -51,3 +51,6 @@ Return a file
 #### getAllMarker
 Return incident id and location
 return array of object {"id":34,"longitude":25.0203,"latitude":53.7476}
+
+#### backup
+Return [incident](https://github.com/ilyukou/beldtp-api/tree/master/docs/entity/INCIDENT.md) which contains full AttachmentFile entity instead set of id

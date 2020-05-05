@@ -1,0 +1,537 @@
+{
+  "millis": 1588681383968,
+  "info": "ok",
+  "date": "Tue May 05 15:23:03 MSK 2020",
+  "incident": [
+    {
+      "id": 34,
+      "text": "26 июня 2018 года около 06.20 на 188 километре автодороги М-6 \"Минск-Гродно- граница Республики Польша\", вблизи деревни Феликсово Лидского района, произошло столкновение между грузовым автопоездом и легковым автомобилем \"Ситроен С3\". В результате происшествия водитель легкового автомобиля погиб, а пассажир был серьезно травмирован.",
+      "attachmentFile": [
+        {
+          "id": 4,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "CpKmJcLOksI26iJCBNZi1vTBcwcmFGh7YIEseYN57bFD2C6LNY5Kp2jB7SheaQ.jpg"
+        },
+        {
+          "id": 3,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "ZhPN2ZXipcAI01TUJoxgfuwKgdmURWAJ7P6CwjVhzRd3MWecSjhmprV3PoeIa0.jpg"
+        },
+        {
+          "id": 5,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "y8yc15BFA4GcrWW1XmCiPrRLfyqLEbCsHNFszNG0YvJ36i1rVkqs4qwlOZeI3F.jpg"
+        }
+      ],
+      "year": 2018,
+      "millis": 1529983257352,
+      "day": 26,
+      "month": 5,
+      "hour": 6,
+      "minute": 20,
+      "longitude": 25.0203,
+      "latitude": 53.7476
+    },
+    {
+      "id": 39,
+      "text": "Водитель \"УАЗа\" двигался в направлении улицы Большая Троицкая. С его слов, впереди двигавшийся автомобиль стал резко притормаживать. Для того чтобы избежать столкновения, он вывернул руль вправо и совершил наезд на металлическое ограждение. В результате наезда на препятствие автомобиль опрокинулся. Пассажир получил телесные повреждения и был доставлен в больницу на обследование.",
+      "attachmentFile": [
+        {
+          "id": 7,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "Voy4vYb4SLaCNVyql7Vr88GToJA2VR4yPQRBEInkDK3SdugTUyrjbaiXAWNRVp.jpg"
+        },
+        {
+          "id": 8,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "O1MscYgTDpPJXrXy3ulY95nK9YDxiK0wF4xk6MLA1Eyti3c6TGrpSi5MIX8pua.jpg"
+        },
+        {
+          "id": 9,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "Wf2jvaIsyJff0Wfhq9DCHjC3SDkEYMGR9JOAPw0jCX5AK47YcloPyU2aphzVx3.jpg"
+        },
+        {
+          "id": 10,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "zwBN1WQ9rIxSTHbKV6dFdpVI2psB2pmWZDWSsLJODvByrZc7hGqxXaWpJac1ei.jpg"
+        },
+        {
+          "id": 6,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "OSd5jRB5aCkjlbUgxxjFu2OOST8bRA2Ih3TAGjGJwqoGHIr3QIAnsrxEXEjrmH.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1585209614694,
+      "day": 26,
+      "month": 2,
+      "hour": 11,
+      "minute": 0,
+      "longitude": 23.827,
+      "latitude": 53.6882
+    },
+    {
+      "id": 55,
+      "text": "Авария произошла утром 14 апреля. Установлено, что 51-летний водитель погрузчика «Амкодор» выезжал со второстепенной дороги на трассу Кореличи — Щорсы и не пропустил Peugeot. В результате ковш погрузчика «прошил» правую сторону легковушки.\n\nВ аварии травмы различной степени тяжести получила 51-летняя водитель Peugeot. Женщину доставили в больницу. ",
+      "attachmentFile": [
+        {
+          "id": 16,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "UljDTzbrbY5jix15F1lB9mYGubfnp1VnzxG6VhDtl3MNROPLiubtoDouiHVPIH.jpg"
+        },
+        {
+          "id": 15,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "UbTWD4A97jTaxGF4qDqew1zjVJx1uB6zPRmOPq87LyxFPWFGGeuXfaWIWo096X.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1586844022252,
+      "day": 14,
+      "month": 3,
+      "hour": 9,
+      "minute": 0,
+      "longitude": 26.1749,
+      "latitude": 53.5894
+    },
+    {
+      "id": 56,
+      "text": "21-летний на Suzuki двигался со стороны моста в направлении улицы Поповича. В какой-то момент мотоциклист не учел безопасную дистанцию и ударил в заднюю часть троллейбус, поцарапав ему задний бампер. ",
+      "attachmentFile": [
+        {
+          "id": 18,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "Pu7NdTW31Qqwkrr7KoaczwxpbiQpF0aGUZxMxLRDwtRYghayLkRN86NCcXx6NN.jpg"
+        },
+        {
+          "id": 20,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "tpZGtzWzI7OtIBnh029yaUpCJsdIayUJsOJjgdqxdIay43E8DiXdamgtpeSR7q.jpg"
+        },
+        {
+          "id": 17,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "q7EY8d1Rh8SHvQPE5wQpyVxzUm3CUUaN2rT8IvfIzwpkXcX0fqYwOmsrYaHsHY.jpg"
+        },
+        {
+          "id": 19,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "dIJdQKUqIbpv5x987toMjSd3HFb99KaAPxa9Vgs6HmjCfzmgNVtTjfBEccGODn.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1586455234400,
+      "day": 9,
+      "month": 3,
+      "hour": 21,
+      "minute": 0,
+      "longitude": 23.8211,
+      "latitude": 53.6691
+    },
+    {
+      "id": 57,
+      "text": "Автомобиль Lada двигался по круговому движению на красный сигнал светофора. В это время с улицы О. Соломовой в направлении улицы Маслакова на разрешающий сигнал светофора двигался автомобиль Honda. Водитель автомобиля Lada не уступил дорогу, в результате чего произошло ДТП. ",
+      "attachmentFile": [
+        {
+          "id": 32,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "OaJ59NIhpDmpCOr7P5E1L5vHbNMi6DzdlzMNKrqNfNKub6yMVTGDkC2nczzRBe.jpg"
+        },
+        {
+          "id": 33,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "oZ4q8rpJSqZ95h9FvPEf4xItRW2NDB6k0cNXNZAjBv7eXpwfSYRzxTPbLOtGkX.jpg"
+        },
+        {
+          "id": 35,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "WKq244MaLcNTqjA0pvTyyC2N2vIHsuvTDCeIlGdFwhR2UpgKHcgSTvwakdlQDS.jpg"
+        },
+        {
+          "id": 34,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "LmLdTBq4glaRHVvQbqArZpwPkC8jQ37SRNz8jux9qMlglvEJtug329qReqan9w.jpg"
+        },
+        {
+          "id": 31,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "eTEoEYR1PCfelJ2fPt27eV0udlHa8RzTQXqBpILI1fXm7Ndc1qrA33PXYd7oBl.jpg"
+        },
+        {
+          "id": 37,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "fxHEsVg4ngTP8LRr62DWF9CiEt8ezrZQRP86tBOfeCoBnB0UmeZwvstbetMNOa.jpg"
+        },
+        {
+          "id": 36,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "LXQEY6GNuGQJ3Kn8ra530qqyrfptmMwQpjXQDSDuq7rjlVELlR8gCOd6eMJdkj.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1586016600551,
+      "day": 4,
+      "month": 3,
+      "hour": 19,
+      "minute": 10,
+      "longitude": 23.7922,
+      "latitude": 53.6529
+    },
+    {
+      "id": 78,
+      "text": "В  субботу, 28 марта, около полудня на проспекте Космонавтов в Гродно 29-летний водитель Audi совершил наезд на пешехода. Мужчина поворачивал направо при выезде от строительного магазина «Гемма», в это время женщина 1955 года рождения переходила дорогу. Местная жительница пересекала проезжую часть вне пешеходного перехода, отметили в Гродненской ГАИ. В результате аварии она получила серьезные травмы, с которыми и была госпитализирована.\n\nИсточник <a href=\"http://s13.ru/archives/dtp-180\">http://s13.ru/archives/dtp-180</a>",
+      "attachmentFile": [
+        {
+          "id": 56,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "ujoRbkQBKuP6ncP61yMr8R5Mk5Yf9IvEAR9UaCrZIwiCkbE1nsFBPDzusT1ucF.jpg"
+        },
+        {
+          "id": 58,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "Gia1OrHPit37tdCrMVxxVtYteqGBTPirnMeWYhjiIA64WGlsfBam8XIXEop4h6.jpg"
+        },
+        {
+          "id": 55,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "oaMywXYy4qsBCnjH2coK1wjVNH8Q6eLfhHFhU7j0eV0Bb8RZDSv1xA7USdaUVj.jpg"
+        },
+        {
+          "id": 57,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "TribUqeQRikNRHjGXVzpYdXFFh7b44vmLXH5B4sQhwTJJUPVLEooElxPQpERFB.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1585386059028,
+      "day": 28,
+      "month": 2,
+      "hour": 12,
+      "minute": 0,
+      "longitude": 23.8463,
+      "latitude": 53.676
+    },
+    {
+      "id": 79,
+      "text": "На пешеходном переходе на улице Весенней в Гродно произошла авария с участием автомобилей «Ауди» и «Фольксваген».\n\nПодъезжая к пешеходному переходу 40-летняя женщина-водитель «Фольксвагена» стала притормаживать, а сзади двигающийся мужчина на «Ауди» этого не учел и въехал в заднюю часть автомобиля. После ДТП водитель «Ауди» попытался уехать с места происшествия, однако из-за технической неисправности, этого сделать ему не удалось. Мужчина убежал в направлении автобусной остановки. Сел в троллейбус и уехал, рассказали подробности в Гродненской ГАИ.\n\nВ ходе дальнейшего разбирательства личность водителя была установлена. Им оказался 38-летний бесправник. Как пояснил сбежавший мужчина, он испугался ответственности, поэтому оставил место ДТП и поехал домой.\n\nК слову водитель лишен права управления транспортным средством, за вождение в состоянии алкогольного опьянения.\n\nИсточник <a href=\"http://s13.ru/archives/dtp-193\">http://s13.ru/archives/dtp-193</a>",
+      "attachmentFile": [
+        {
+          "id": 59,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "lf4bqyqZAkBeFV6oPRq5dBAHLQVzJN6k7SfjMAiOjTsf9c9Yl9TlpQqHQPmtN2.jpg"
+        },
+        {
+          "id": 60,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "8jbjFdCbBvScf0m6ncSF0WlzG0wuC2C9n3V20YjQIol4CkPm32WWH5u1HLvMVS.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1586780442480,
+      "day": 13,
+      "month": 3,
+      "hour": 15,
+      "minute": 20,
+      "longitude": 23.8058,
+      "latitude": 53.6833
+    },
+    {
+      "id": 84,
+      "text": "По предварительной информации: 21 апреля около 20:46 часов 24-летний брестчанин, управляя мотоциклом «Кавасаки ZX9R Ninja», двигался по ул. Октябрьской Революции (в направлении к ул. Волгоградской).\nНапротив дома №7 «А», мотоциклист совершил столкновение с автомобилем «Пежо 406» под управлением 40-летнего горожанина, который завершил маневр разворота в направлении к ул. Волгоградской.\nВ результате ДТП мотоциклист с травмами госпитализирован в больницу. Проводится проверка.\n\nИсточник - <a href=\"https://onlinebrest.by/novosti/v-breste-kavasaki-stolknulsya-s-pezho-podrobnosti-vcherashnego-dtp.html\">https://onlinebrest.by/novosti/v-breste-kavasaki-stolknulsya-s-pezho-podrobnosti-vcherashnego-dtp.html</a>",
+      "attachmentFile": [
+        {
+          "id": 63,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "zqEzLSqRAdbklXl0ljt7rsCHz9QyuJTsBC656qTKdnQr97OizBCkIL0KXgj5PG.jpg"
+        },
+        {
+          "id": 62,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "smjyMuD7NqvTziGjH1f4JOhBbP3TLfvbR7YL5qwkKJUVAKdFFOizcKOBs2Ak9N.jpg"
+        },
+        {
+          "id": 64,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "OMhP1P5GIXx0AaiwZSLWqq8x0t5PlieFro5dpW8Gf3l39agCcDYuKhAO50DXFD.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1587491173691,
+      "day": 21,
+      "month": 3,
+      "hour": 20,
+      "minute": 46,
+      "longitude": 23.7456,
+      "latitude": 52.0812
+    },
+    {
+      "id": 85,
+      "text": "Небольшое ДТП с участием автомобиля такси произошло на ул. Богдана Хмельницкого\n\nКак сообщают очевидцы, авария случилась 2-го мая, примерно в 14:00.\n\nИсточник - <a href=\"https://vk.com/wall-131126363_160968\">https://vk.com/wall-131126363_160968</a>",
+      "attachmentFile": [
+        {
+          "id": 66,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "NSbH0tLRRIgj7UVWxYwEg7k7v6cP5DirPmgLTS1wB2dt5er6oKDnHfDmhv1ynN.jpg"
+        },
+        {
+          "id": 65,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "MCbAbWfT5gqxZC3F22nIwbX7RP2iXrilaKX9Cfz3iukeEGCzppQziV7e4DIGtD.jpg"
+        },
+        {
+          "id": 67,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "bDVtxAQfMV6Aaz2U3aCCeDbwhrq75JChzrsrRQkOAMCP8xW5UdEddPh8FB0eeH.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1588417204905,
+      "day": 2,
+      "month": 4,
+      "hour": 14,
+      "minute": 0,
+      "longitude": 30.9765,
+      "latitude": 52.4056
+    },
+    {
+      "id": 86,
+      "text": "В г.Барановичи «курьезное» ДТП, механические повреждения получили 7 автомобилей.\n\n20 апреля около 15:55 часов на улице Советской произошло дорожно-транспортное происшествие.\nПо предварительной информации: 35-летний местный житель, находясь в состоянии алкогольного опьянения, управлял автомобилем марки «Субару» и двигался в направлении улицы 50 лет ВЛКСМ. Напротив дома 44, водитель не выбрал безопасную дистанцию до впереди двигающегося автомобиля марки «Рено» под управлением 26-летний жительницы г.Барановичи и совершил с ним столкновение. После чего, совершил столкновение еще в пятью припаркованными автомобилями (Фиат, Пежо, Форд, Пежо и Опель).\nВ ДТП пострадавших нет, автомобили получили механические повреждения. В отношении водителя составлены административные материалы по ч.1 ст.18.16, ч.6 ст.18.14 КоАП Республики Беларусь.\n\nИсточник - <a href=\"https://vk.com/wall-89516108_20102\">https://vk.com/wall-89516108_20102</a>",
+      "attachmentFile": [
+        {
+          "id": 70,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "jNh4UwQp0eWaL7hT9avxQxWGaYMxjWWYKb1S4u7z0VfaPZtnHrfbz0z15z3jfz.jpg"
+        },
+        {
+          "id": 69,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "NH4yVfrmmGfHE8mbYC7idILoKXoiHfyjuaYtZ2dqlh2NzyVc0ZX5NIeoWZukNT.jpg"
+        },
+        {
+          "id": 68,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "rb1gZrktNjDdE6BfL08iiBvZ7b9YDJ3RWnPMK7VUMhplxFgnDWqypWP6w5Qn9n.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1587387314522,
+      "day": 20,
+      "month": 3,
+      "hour": 15,
+      "minute": 55,
+      "longitude": 26.0266,
+      "latitude": 53.1198
+    },
+    {
+      "id": 87,
+      "text": "Житель г. Мозыря управляя автомобилем «Ниссан Х-Trail», двигаясь по ул. Рыжкова, совершил столкновение с двигавшемся попутно в левой полосе автомобилем «ГАЗ А22R33», который в результате столкновения, не справился с управлением выехал на полосу встречного движения, где совершил столкновение с автомобилем “Фольксваген Бора.",
+      "attachmentFile": [
+        {
+          "id": 73,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "10J2BhZS9WvrFOmeXq62aNu39OA686YwrHLemlhoqIuPy7yqUQBDFWeedxSuwv.jpg"
+        },
+        {
+          "id": 72,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "zVxb3nLUarrvvKI6liQ3ibXrTnwZ995BuSnT0zcxswaWjrD5OayKTiX8e9NAeU.jpg"
+        },
+        {
+          "id": 71,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "thKe6NVD41uEi2KXr2IMzWqaPTtR5247nCMxEVJTL2LHeeIKbRZQEcLohU42Xu.jpg"
+        }
+      ],
+      "year": 2019,
+      "millis": 1558855505263,
+      "day": 26,
+      "month": 4,
+      "hour": 10,
+      "minute": 25,
+      "longitude": 29.2388,
+      "latitude": 52.0385
+    },
+    {
+      "id": 88,
+      "text": "Днём 23 марта произошло ДТП рядом с домом №213 по улице Ленина в Слуцке.\n\nПо данным ГАИ, водитель Suzuki поворачивал налево из крайнего правого положения в полосе. Не убедившись в безопасности маневра, он совершил столкновение с BMW, который двигался слева от него (в крайнем левом положении в пределах полосы), в результате чего BMW въехал в бордюрный камень и опрокинулся \n\n Источник - <a href=\"http://slutsk-gorod.by/novosti/item/bmw-x5-perevernulsya-vozle-slutskoj-stomatologii-podrobnosti\">http://slutsk-gorod.by/novosti/item/bmw-x5-perevernulsya-vozle-slutskoj-stomatologii-podrobnosti</a>",
+      "attachmentFile": [
+        {
+          "id": 75,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "ITAAPKXOxgdA6Q6mw8quwhm3afEh1d9NjtDwHxq485VaT1VQ0QmwC6sJRXSHdk.jpg"
+        },
+        {
+          "id": 77,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "iLcOy3OF0Eb5MBi69RMKd74kJKU96XIkFSv4pVYGqWveIhmSqgHHNFgHoXHCb4.jpg"
+        },
+        {
+          "id": 74,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "kXv0j6tReoLvvdB6HtqMQNq64wBvU4smSjkKhf7QOcrNCLtm9AMCDO13lx7VzW.jpg"
+        },
+        {
+          "id": 76,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "XjMhyTOeduTsQdPiuApUlXTQj6RAABHqeIKcHQBQhWNdOBk0Be5JOyF5fJpjAL.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1584957636709,
+      "day": 23,
+      "month": 2,
+      "hour": 13,
+      "minute": 0,
+      "longitude": 27.5636,
+      "latitude": 53.0349
+    },
+    {
+      "id": 89,
+      "text": "Перекресток улиц  Поселковой и Центральной  стал местом встречи не только многочисленных зевак. Предшествовала этому авария, которая произошла в субботу, 30 ноября, после обеда.\n\nНе разобрались с главной дорогой и второстепенной водители двух легковых автомобилей. В результате ДТП пострадали не только транспортные средства, но и бетонный столб, стоявший, казалось бы, на немалом удалении от места аварии.\n\nУдар был такой силы, что столб не выдержал удара и сломался.\n\nПосетители группы, отмечают, что ДТП на том перекрестке происходят регулярно. Виной тому – невнимательность  водителей.\n\nИсточник - <a href=\"https://pinsk.1reg.by/2019/11/30/stolb-ele-ustoyal-poydet-pod-zamenu-subbotnee-dtp-v-pinske/\">https://pinsk.1reg.by/2019/11/30/stolb-ele-ustoyal-poydet-pod-zamenu-subbotnee-dtp-v-pinske/</a>",
+      "attachmentFile": [
+        {
+          "id": 81,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "vSI2Zc2rD288FhIoFHzh5muf2oW7UXNqWl3fApCbcYkcMORJ1QCiGvGSZbOfOd.jpg"
+        },
+        {
+          "id": 80,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "E6l9yqtrcYMHq0aRCgNlInuw6uBXqaZ5Vp75AUgDuCWwaHcPJiY5KpQiUMRNGc.jpg"
+        },
+        {
+          "id": 78,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "J0SCp6TpxhiwhbpkB28TPbXJHt4or44YCYgM612nlDXsXEjlGunl6suttG2dEt.jpg"
+        },
+        {
+          "id": 79,
+          "caption": null,
+          "mediaType": "PHOTO",
+          "fileName": "V6rkwEwDoWbIwMjTy7ZbxNj6PGpPBSpF5dOIXSDUmejps3qWhAN3jESx5YW34X.jpg"
+        }
+      ],
+      "year": 2019,
+      "millis": 1575113440806,
+      "day": 30,
+      "month": 10,
+      "hour": 14,
+      "minute": 30,
+      "longitude": 26.0744,
+      "latitude": 52.1405
+    },
+    {
+      "id": 90,
+      "text": "Авария произошла 27 апреля около 16 часов дня вблизи дома 48 по улице Мичурино в Сенно. 32-летний житель Витебска, управляя автомобилем \"Peugeot 407\", совершил наезд на велосипедиста 1961 года рождения.\n\nВ результате ДТП 59-летний мужчина с телесными повреждениями доставлен в Сенненскую больницу.\n\nИсточник - <a href=\"https://vk.com/wall-101696077_27063\">https://vk.com/wall-101696077_27063</a>",
+      "attachmentFile": [
+        {
+          "id": 83,
+          "caption": null,
+          "mediaType": "PHOTO_JPG",
+          "fileName": "JHGYqtuM6k90yGxwMMZf9IgQLQFtR7InARrtdpaWhhsQOfcZC7w39LUD6zYh6W.jpg"
+        },
+        {
+          "id": 82,
+          "caption": null,
+          "mediaType": "PHOTO_JPG",
+          "fileName": "dtznoiJwhjg5dcOp2qXV0BUTWziPAltX4HODCRJy3ArgwMRcVIENLfWkJt3cEF.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1587992420789,
+      "day": 27,
+      "month": 3,
+      "hour": 16,
+      "minute": 0,
+      "longitude": 29.721,
+      "latitude": 54.8215
+    },
+    {
+      "id": 93,
+      "text": "По информации столичной ГАИ, 2 мая около 4:20 в Минске на ул. Радиальной 25-летний водитель \"Акуры\" на круговой развязке не справился с управлением и совершил наезд на бордюрный камень, после чего машину отбросило на проезжую часть (видео). \n\nВ результате ДТП водитель не пострадал, автомобиль получил механические повреждения. Освидетельствование мужчины показало наличие алкогольного опьянения — 1,5 промилле. \n\nИсточник - <a href=\"https://telegra.ph/Obzor-za-1-3-maya-05-03\">https://telegra.ph/Obzor-za-1-3-maya-05-03</a>",
+      "attachmentFile": [
+        {
+          "id": 84,
+          "caption": null,
+          "mediaType": "PHOTO_JPG",
+          "fileName": "kJ2dXnGfytZpGNQRI98Lgk081GxgrjpBSRfBOpMlqG7sWM4OdUq2FaOaqhcENk.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1588382414282,
+      "day": 2,
+      "month": 4,
+      "hour": 4,
+      "minute": 20,
+      "longitude": 27.6431,
+      "latitude": 53.8938
+    },
+    {
+      "id": 94,
+      "text": "1 мая около 3 часов ночи 19-летний водитель \"Тойоты\" в Могилеве на ул. Челюскинцев не справился с управлением и совершил наезд на световую опору. \n\nВ результате ДТП водитель с травмами госпитализирован. Допуск автомобиля к участию в дорожном движении отсутствовал.\n\nИсточник - <a href=\"https://telegra.ph/Obzor-za-1-3-maya-05-03\">https://telegra.ph/Obzor-za-1-3-maya-05-03</a>",
+      "attachmentFile": [
+        {
+          "id": 85,
+          "caption": null,
+          "mediaType": "PHOTO_JPG",
+          "fileName": "po5PAsgsnbHfu2SOKlZnH1ynQuxb4g6t5OMJi28KVGzbvm9xH69KTu8Y18jVPX.jpg"
+        }
+      ],
+      "year": 2020,
+      "millis": 1588291231901,
+      "day": 1,
+      "month": 4,
+      "hour": 3,
+      "minute": 0,
+      "longitude": 30.2662,
+      "latitude": 53.8791
+    }
+  ]
+}
